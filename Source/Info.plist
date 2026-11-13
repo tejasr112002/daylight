@@ -3,6 +3,7 @@
 <plist version="1.0"><dict>
 <key>CFBundleExecutable</key><string>Daylight</string>
 <key>CFBundleIdentifier</key><string>local.daylight.focus</string>
+<key>CFBundleIconFile</key><string>AppIcon</string>
 <key>CFBundleName</key><string>Daylight</string>
 <key>CFBundleDisplayName</key><string>Daylight</string>
 <key>CFBundlePackageType</key><string>APPL</string>
